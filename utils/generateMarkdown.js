@@ -8,7 +8,7 @@ switch (data) {
     return licensebadge = ""
 
   case  "Apache License 2.0":
-    return licensebadge = ""
+    return licensebadge = "[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)"
   default:
     return licensebadge = ""
     
@@ -18,14 +18,17 @@ switch (data) {
 function generateMarkdown(data) {
   getLicenseBadge(data.license)
   return `# ${data.title}
-
+  ${licensebadge}
+  
   ## Description
 
   ${data.description}
-  ${licensebadge}
 
-  ## Table of Contents
+  ## License
+
+  ${data.license}
   
+
   ## Table of Contents
   
   ## Table of Contents
