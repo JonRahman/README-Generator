@@ -1,17 +1,17 @@
 # 1
-  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
   
   ## Description
 
   1
 
   ## Table of content
-  1. [Installation] (#installation)
-  2. [Usage] (#usage)
-  3. [License] (#license)
-  4. [Contributing] (#contributing)
-  5. [Tests] (#tests)
-  6. [Questions] (#questions)
+  1. [Installation](#installation)
+  2. [Usage](#usage)
+  3. [License](#license)
+  4. [Contributing](#contributing)
+  5. [Tests](#tests)
+  6. [Questions](#questions)
   
   ## Installation
   
@@ -23,7 +23,7 @@
 
   ## License
 
-  Mozilla Public License 2.0
+  GNU General Public License v3.0
   
   ## Contributing
 
@@ -31,10 +31,10 @@
   
   ## Tests
   
-  1
+  
   
   ## Questions
   
   1,
-  1,
+  11,
   1
