@@ -40,13 +40,13 @@ const questions = [
                 name: "Apache License 2.0",
             },
             {
-                name: "Apache License 2.0",
+                name: "Boost Software License 1.0",
             },
             {
-                name: "Apache License 2.0",
+                name: "IBM Public License Version 1.0",
             },
             {
-                name: "Apache License 2.0",
+                name: "Mozilla Public License 2.0",
             },
         ],
     },
@@ -57,7 +57,7 @@ const questions = [
     },
     {
         type: "input",
-        name: "testing",
+        name: "tests",
         message: "Please enter any testing protocols for your project.",
     },
     {
