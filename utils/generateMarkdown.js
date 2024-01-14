@@ -24,18 +24,39 @@ function generateMarkdown(data) {
 
   ${data.description}
 
+  #Table of content
+  1. Installation
+  2. Usage
+  3. License
+  4. Contributing
+  5. Tests
+  6. Questions
+  
+  ## Installation
+  
+  ${data.installation}
+
+  ## Usage
+  
+  ${data.usage}
+
   ## License
 
   ${data.license}
   
+  ## Contributing
 
-  ## Table of Contents
+  ${data.contributing}
   
-  ## Table of Contents
+  ## Tests
   
-  ## Table of Contents
+  ${data.testing}
   
+  ## Questions
   
+  ${data.questionOne},
+  ${data.questionTwo},
+  ${data.questionThree}
 `;
 }
 

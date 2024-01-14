@@ -8,12 +8,22 @@ const questions = [
     {
         type: "input",
         name: "title",
-        message: "What is the name of your project?",
+        message: "What is the title of your project?",
     },
     {
         type: "input",
         name: "description",
-        message: "Write a brief description of your project.",
+        message: "Write a brief description about your project.",
+    },
+    {
+        type: "input",
+        name: "installation",
+        message: "What are the installation instructions for your project?",
+    },
+    {
+        type: "input",
+        name: "usage",
+        message: "What is your repository link to clone your repository?",
     },
     {
         type: "list",
@@ -29,7 +39,41 @@ const questions = [
             {
                 name: "Apache License 2.0",
             },
+            {
+                name: "Apache License 2.0",
+            },
+            {
+                name: "Apache License 2.0",
+            },
+            {
+                name: "Apache License 2.0",
+            },
         ],
+    },
+    {
+        type: "input",
+        name: "contributing",
+        message: "Provide guidelines on how to contribute to your project.",
+    },
+    {
+        type: "input",
+        name: "testing",
+        message: "Please enter any testing protocols for your project.",
+    },
+    {
+        type: "input",
+        name: "questionOne",
+        message: "What is your name?",
+    },
+    {
+        type: "input",
+        name: "questionTwo",
+        message: "What is your email address?",
+    },
+    {
+        type: "input",
+        name: "questionThree",
+        message: "What is your GitHub user URL?",
     },
 ];
 
