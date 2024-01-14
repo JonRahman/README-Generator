@@ -7,8 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^6.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JonRahman/README-Generator"
   }
 }
