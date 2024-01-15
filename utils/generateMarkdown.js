@@ -30,11 +30,11 @@ function generateMarkdown(data) {
   return `# ${data.title}
   ${licensebadge}
   
-  ## Description
+  ## Project Description
 
   ${data.description}
 
-  ## Table of content
+  ## Table of contents
   1. [Installation](#installation)
   2. [Usage](#usage)
   3. [License](#license)
@@ -42,19 +42,21 @@ function generateMarkdown(data) {
   5. [Tests](#tests)
   6. [Questions](#questions)
   
-  ## Installation
+  ## Project Installation
   
-  ${data.installation}
+    To clone the repo:
+  
+      git clone ${data.installation}
 
-  ## Usage
+  ## How to Use the Project
   
   ${data.usage}
 
   ## License
 
-  ${data.license}
+  License used for this project - ${data.license}
   
-  ## Contributing
+  ## Contribute to the Project
 
   ${data.contributing}
   
@@ -64,9 +66,9 @@ function generateMarkdown(data) {
   
   ## Questions
   
-  ${data.questionOne},
-  ${data.questionTwo},
-  ${data.questionThree}
+  Name: ${data.questionOne},
+  Email: ${data.questionTwo},
+  GitHub: ${data.questionThree}
 `;
 }
 
