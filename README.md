@@ -35,9 +35,13 @@ node index.js
   ## Screenshot
 
   Video:
-  
+  [Untitled_ Jan 16, 2024 9_07 PM.webm](https://github.com/JonRahman/README-Generator/assets/145556007/4c640daf-bbc7-40da-8b10-374108970b86)
+
 
   Images:
+  ![README-Generator - Visual Studio Code 16_01_2024 20_29_47](https://github.com/JonRahman/README-Generator/assets/145556007/dd519818-149c-486a-8884-f723bd285f4b)
+  ![README-Generator - Visual Studio Code 16_01_2024 20_28_31](https://github.com/JonRahman/README-Generator/assets/145556007/dfce0ea4-8f13-4676-b616-307c3e291199)
+  ![README-Generator - Visual Studio Code 16_01_2024 20_25_56](https://github.com/JonRahman/README-Generator/assets/145556007/a0fa08c3-7b6d-4513-bd18-f6f3d7b6b1be)
 
   
   ## Links
