@@ -1,11 +1,11 @@
 # 1
   [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
   
-  ## Description
+  ## Project Description
 
   1
 
-  ## Table of content
+  ## Table of contents
   1. [Installation](#installation)
   2. [Usage](#usage)
   3. [License](#license)
@@ -13,28 +13,30 @@
   5. [Tests](#tests)
   6. [Questions](#questions)
   
-  ## Installation
+  ## Project Installation
   
-  1
+    To clone the repo:
+  
+      git clone 1
 
-  ## Usage
+  ## How to Use the Project
   
   1
 
   ## License
 
-  GNU General Public License v3.0
+  License used for this project - GNU General Public License v3.0
   
-  ## Contributing
+  ## Contribute to the Project
 
   1
   
   ## Tests
   
-  
+  1
   
   ## Questions
   
-  1,
-  11,
-  1
+  Name: 1,
+  Email: 1,
+  GitHub: 1
