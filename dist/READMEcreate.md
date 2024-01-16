@@ -1,9 +1,9 @@
-# 1
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+# README Generator
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   
   ## Project Description
 
-  1
+  This application was created to generate a high-quality, professional README depending on a series of questions a user answers in their command line using Node.js
 
   ## Table of contents
   1. [Installation](#installation)
@@ -17,26 +17,26 @@
   
     To clone the repo:
   
-      git clone 1
+      git clone The user should clone the repository from GitHub and download Node. This application also requires a file system and inquirer module.
 
   ## How to Use the Project
   
-  1
+  git@github.com:JonRahman/README-Generator.git
 
   ## License
 
-  License used for this project - GNU General Public License v3.0
+  License used for this project - Apache License 2.0
   
   ## Contribute to the Project
 
-  1
+  Contributors should read the installation section.
   
   ## Tests
   
-  1
+  NA
   
   ## Questions
   
-  Name: 1,
-  Email: 1,
-  GitHub: 1
+  Name: Jon Rahman,
+  Email: Jonrahman90@gmail.com,
+  GitHub: https://github.com/JonRahman/README-Generator
