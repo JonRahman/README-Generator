@@ -44,13 +44,13 @@ function generateMarkdown(data) {
   
   ## Project Installation
   
-  ${data.usage}
+  ${data.installation}
 
   ## How to Use the Project
   
   To clone the repo:
   
-    git clone ${data.installation}
+    git clone ${data.usage}
 
   ## License
 

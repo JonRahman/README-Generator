@@ -1,4 +1,4 @@
-# README Generator
+# README generator
   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   
   ## Project Description
@@ -15,13 +15,13 @@
   
   ## Project Installation
   
-    To clone the repo:
-  
-      git clone The user should clone the repository from GitHub and download Node. This application also requires a file system and inquirer module.
+  git@github.com:JonRahman/README-Generator.git
 
   ## How to Use the Project
   
-  git@github.com:JonRahman/README-Generator.git
+  To clone the repo:
+  
+    git clone The user should clone the repository from GitHub and download Node. This application also requires a file system and inquirer module.
 
   ## License
 
@@ -29,7 +29,7 @@
   
   ## Contribute to the Project
 
-  Contributors should read the installation section.
+  NA
   
   ## Tests
   
